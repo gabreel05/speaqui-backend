@@ -9,6 +9,6 @@
 ## 💻 Getting started
 
 1. Clone this repo using <code>https://github.com/gabreel05/speaqui-backend.git</code>
-2. Move to the appropiate directory: <code>cd frontend</code>
+2. Move to the appropiate directory: <code>cd speaqui</code>
 3. Run <code>yarn</code> or <code>npm install</code> to install the dependencies
 4. Run <code>yarn dev</code> or <code>npm run dev</code> to start the development server
